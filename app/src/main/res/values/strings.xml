@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BookFinal</string>
+    <string name="books">books</string>
+    <string name="error">Error:...</string>
+    <string name="found">Founded:...</string>
+    <string name="no_parameters">no parameters</string>
+    <string name="no_internet">no internet connection</string>
+    <string name="no_results">no results founded</string>
+    <string name="search">search</string>
+    <string name="searching">searching:...</string>
+    <string name="items">items</string>
+</resources>
