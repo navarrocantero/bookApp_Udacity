@@ -91,7 +91,7 @@ public class FragmentBook extends Fragment {
                 } else {
                     Util.newMesagge(mesaggeTextView, getString(R.string.error) + "  " + getString(R.string.no_internet));
                 }
-
+                adapter.clear();
             }
 
 
